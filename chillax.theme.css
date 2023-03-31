@@ -96,7 +96,7 @@
 
      
 /*background image*/ /*(replace the link to use)*/
-  --background-image:var('https://wallpaperaccess.com/full/896724.jpg');
+  --background-image: url('https://wallpaperaccess.com/full/896724.jpg');
 /*bg dev suggestions*/
   --wq-suggested-bg: url('https://wallpaperaccess.com/full/2799204.jpg');
   --de-suggested-bg: url('https://i.imgur.com/BtNVFtq.jpg');
